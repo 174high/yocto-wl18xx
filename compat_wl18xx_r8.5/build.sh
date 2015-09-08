@@ -1,0 +1,2 @@
+#/bin/sh
+make ARCH=arm  CROSS_COMPILE=/opt/swi/sysroots/x86_64-pokysdk-linux/usr/bin/arm-poky-linux-gnueabi/arm-poky-linux-gnueabi-  KLIB=/home/ubuntu/yocto/build_bin/tmp/work/swi_mdm9x15-poky-linux-gnueabi/linux-yocto/3.4.91+gitAUTOINC+8fcd3d08ac_7e84772e18-r4.5.1/linux-swi_mdm9x15-standard-build/ KLIB_BUILD=/home/ubuntu/yocto/build_bin/tmp/work/swi_mdm9x15-poky-linux-gnueabi/linux-yocto/3.4.91+gitAUTOINC+8fcd3d08ac_7e84772e18-r4.5.1/linux-swi_mdm9x15-standard-build/
